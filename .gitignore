@@ -9,8 +9,6 @@
 /coverage
 
 # production
-/dist
-/dts
 
 # misc
 /src/__generated__
